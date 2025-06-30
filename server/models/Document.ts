@@ -1,20 +1,18 @@
-/**
- * Mongoose Document model.
- */
-import mongoose, { Schema, Document as Doc } from 'mongoose';
+// models/Document.ts
+import mongoose, { Schema, Document } from 'mongoose';
+import { IDocument } from '../interfaces/IDocument';
 
-export interface IDocument extends Doc {
-  userId: mongoose.Types.ObjectId;
-  title: string;
-  filename: string;
-  uploadDate: Date;
-}
+const DocumentSchema: Schema = new Schema<IDocument>(
+  {
+    title: { type: String, required: true },
+    content: { type: String, required: true },
+    owner: { type: String, ref: 'User', required: true },
+  },
+  { timestamps: true }
+);
 
-const documentSchema: Schema = new Schema({
-  userId: { type: mongoose.Types.ObjectId, ref: 'User', required: true },
-  title: { type: String, required: true },
-  filename: { type: String, required: true },
-  uploadDate: { type: Date, default: Date.now }
-});
+export default mongoose.model<IDocument & Document>('Document', DocumentSchema);
 
-export default mongoose.model<IDocument>('Document', documentSchema);
+
+
+

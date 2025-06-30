@@ -1,0 +1,23 @@
+[
+    { "name": "Leah", "email": "leah@gmail.com", "password": "LeahPass1", "role": "user" },
+    { "name": "Chana", "email": "chana@gmail.com", "password": "Chana@2024", "role": "user" },
+    { "name": "Rivka", "email": "rivka@gmail.com", "password": "Rivka!456", "role": "user" },
+    { "name": "Esther", "email": "esther@gmail.com", "password": "EstherPwd", "role": "user" },
+    { "name": "Miriam", "email": "miriam@gmail.com", "password": "Miriam#123", "role": "user" },
+    { "name": "Sarah", "email": "sarah@gmail.com", "password": "Sarah789", "role": "user" },
+    { "name": "Tamar", "email": "tamar@gmail.com", "password": "Tamar$2025", "role": "user" },
+    { "name": "Batya", "email": "batya@gmail.com", "password": "Batya!321", "role": "user" },
+    { "name": "Devorah", "email": "devorah@gmail.com", "password": "DevPass456", "role": "user" },
+    { "name": "Shira", "email": "shira@gmail.com", "password": "Shira@789", "role": "user" },
+    { "name": "Yehudit", "email": "yehudit@gmail.com", "password": "YehuditPwd", "role": "user" },
+    { "name": "Hodaya", "email": "hodaya@gmail.com", "password": "Hodaya#2024", "role": "user" },
+    { "name": "Rina", "email": "rina@gmail.com", "password": "Rina123!", "role": "user" },
+    { "name": "Naomi", "email": "naomi@gmail.com", "password": "Naomi@456", "role": "user" },
+    { "name": "Malka", "email": "malka@gmail.com", "password": "MalkaPwd", "role": "user" },
+    { "name": "Avigail", "email": "avigail@gmail.com", "password": "Avi#789", "role": "user" },
+    { "name": "Tzipora", "email": "tzipora@gmail.com", "password": "TzipPass1", "role": "user" },
+    { "name": "Yael", "email": "yael@gmail.com", "password": "Yael!2025", "role": "user" },
+    { "name": "Ora", "email": "ora@gmail.com", "password": "Ora$321", "role": "user" },
+    { "name": "Nechama", "email": "nechama@gmail.com", "password": "Nechama@123", "role": "user" }
+  ]
+  
