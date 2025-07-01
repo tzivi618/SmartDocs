@@ -1,24 +1,36 @@
-
-//documentRoutes.ts
+//route/documentRoutes.ts
 import express from 'express';
-import authMiddleware  from '../middlewares/authMiddleware';
-const router = express.Router();
-
+import authMiddleware from '../middlewares/authMiddleware';
+import uploadMiddleware from '../middlewares/uploadMiddleware';
+import { validateFields } from '../middlewares/validateFields';
 import {
-  create as createDocument,
-  getAll as getAllDocuments,
-  getOne as getDocument,
-  update as updateDocument,
-  remove as deleteDocument,
+  upload as uploadDocument,
+  getAll,
+  getOne,
+  update,
+  remove,
 } from '../controllers/documentController';
 
+const router = express.Router();
 
-router.use(authMiddleware); // Require auth for all routes below
+router.use(authMiddleware);
 
-router.post('/', createDocument);
-router.get('/', getAllDocuments);
-router.get('/:id', getDocument);
-router.put('/:id', updateDocument);
-router.delete('/:id', deleteDocument);
+router.post(
+  '/upload',
+  uploadMiddleware.single('file'),
+  validateFields(['title']),
+  uploadDocument
+);
+
+router.get('/', getAll);
+router.get('/:id', getOne);
+router.patch(
+  '/:id',
+  uploadMiddleware.single('file'),
+  update
+);
+
+
+router.delete('/:id', remove);
 
 export default router;
