@@ -1,5 +1,4 @@
 // interfaces/IUser.ts
-
 import { Role } from '../types/role.enum';
 
 export interface IUser {

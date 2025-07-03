@@ -1,5 +1,4 @@
 // models/User.ts
-
 import mongoose, { Schema, Document } from 'mongoose';
 import { IUser } from '../interfaces/IUser';
 import { Role } from '../types/role.enum';

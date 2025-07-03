@@ -1,6 +1,4 @@
-/**
- * Mongoose Chat model.
- */
+//models/Chat.ts
 import mongoose, { Schema, Document as Doc } from 'mongoose';
 
 export interface IChat extends Doc {

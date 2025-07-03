@@ -1,8 +1,5 @@
-/**
- * MongoDB connection configuration (not used directly, shown for completeness).
- */
+//config/db.ts
 export const mongoOptions = {
-    useNewUrlParser: true,
-    useUnifiedTopology: true
-  };
-  
+  useNewUrlParser: true,
+  useUnifiedTopology: true
+};
