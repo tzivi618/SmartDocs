@@ -8,7 +8,15 @@ export const registerUser = async (req: Request, res: Response): Promise<void> =
     const { name, email, password } = req.body;
     const result = await authService.register(name, email, password);
     logger.info(`User registered successfully: ${result.user._id}`);
-    res.status(201).json(result);
+    res
+      .cookie('token', result.token, {
+        httpOnly: true,
+        secure: false,
+        sameSite: 'lax',
+        maxAge: 7 * 24 * 60 * 60 * 1000,
+      })
+      .status(200)
+      .json({ user: result.user });
   } catch (error: any) {
     logger.error(`Registration failed: ${error.message}`);
     res.status(400).json({ message: error.message });
@@ -20,7 +28,15 @@ export const loginUser = async (req: Request, res: Response): Promise<void> => {
     const { email, password } = req.body;
     const result = await authService.login(email, password);
     logger.info(`Login successful for user: ${result.user._id}`);
-    res.json(result);
+    res
+      .cookie('token', result.token, {
+        httpOnly: true,
+        secure: false,
+        sameSite: 'lax',
+        maxAge: 7 * 24 * 60 * 60 * 1000,
+      })
+      .status(200)
+      .json({ user: result.user });
   } catch (error: any) {
     logger.error(`Login failed: ${error.message}`);
     res.status(400).json({ message: error.message });
