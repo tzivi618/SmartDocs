@@ -1,13 +1,15 @@
 // routes/authRoutes.ts
 import { Router } from 'express';
 import { body } from 'express-validator';
-import { registerUser, loginUser, getCurrentUser, updateUserProfile, deleteUser } from '../controllers/authController';
+import { googleLogin,registerUser, loginUser, getCurrentUser, updateUserProfile, deleteUser } from '../controllers/authController';
 import authMiddleware from '../middlewares/authMiddleware';
 import { validateRequest } from '../middlewares/validateRequest';
 import { loginLimiter } from '../middlewares/rateLimiter';
 import { logLoginAttempt, logRegisterAttempt } from '../middlewares/logActionsMiddleware';
 
 const router = Router();
+
+router.post('/google', googleLogin);
 
 router.post(
   '/register',

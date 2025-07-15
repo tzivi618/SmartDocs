@@ -3,7 +3,6 @@ export interface User {
   id: string;
   email: string;
   name: string;
-  avatar?: string;
   createdAt: string;
   updatedAt: string;
 }
@@ -12,25 +11,25 @@ export interface Document {
   id: string;
   title: string;
   filename: string;
-  filesize: number;
-  uploadedAt: string;
+  size: number;
+  mimeType: string;
+  createdAt: string;
   updatedAt: string;
-  userId: string;
 }
 
 export interface AuthContextType {
   user: User | null;
   loading: boolean;
-  login: (email: string, password: string) => Promise<void>;
-  register: (email: string, password: string, name: string) => Promise<void>;
-  loginWithGoogle: (token: string) => Promise<void>;
-  logout: () => void;
+  login: (email: string, password: string) => Promise<any>;
+  register: (name: string, email: string, password: string) => Promise<void>;
+  loginWithGoogle: () => Promise<void>;
+  logout: () => Promise<void>;
   updateProfile: (data: Partial<User>) => Promise<void>;
+  checkAuth: () => Promise<void>;
 }
 
 export interface ApiResponse<T = any> {
   success: boolean;
+  message: string;
   data?: T;
-  message?: string;
-  error?: string;
 }

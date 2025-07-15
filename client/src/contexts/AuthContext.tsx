@@ -1,14 +1,14 @@
 // src/contexts/AuthContext.tsx
 import React, { createContext, useContext, useState, useEffect, ReactNode } from 'react';
-import axiosInstance from '../lib/axios';
 import { User, AuthContextType } from '../types';
+import api from '../services/api';
 
 const AuthContext = createContext<AuthContextType | undefined>(undefined);
 
 export const useAuth = () => {
   const context = useContext(AuthContext);
   if (context === undefined) {
-    throw new Error('useAuth חייב להיות בשימוש בתוך AuthProvider');
+    throw new Error('useAuth must be used within an AuthProvider');
   }
   return context;
 };
@@ -21,78 +21,60 @@ export const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
   const [user, setUser] = useState<User | null>(null);
   const [loading, setLoading] = useState(true);
 
-  useEffect(() => {
-    const initializeAuth = async () => {
-      try {
-        const response = await axiosInstance.get('/api/auth/me');
-        setUser(response.data);
-      } catch (error: any) {
-        console.error('שגיאה בקבלת המשתמש הנוכחי:', error);
-        setUser(null);
-      } finally {
-        setLoading(false);
-      }
-    };
-    initializeAuth();
-  }, []);
+  const checkAuth = async () => {
+    try {
+      const response = await api.get('/auth/me');
+      setUser(response.data.user);
+      console.log('checkAuth success:', response.data.user);
+    } catch (error) {
+      console.error('checkAuth failed:', error);
+      setUser(null);
+    }
+  };
 
   const login = async (email: string, password: string) => {
-    try {
-      const response = await axiosInstance.post('/api/auth/login', { email, password });
-      const user = response.data.user;
-      if (!user) {
-        throw new Error('שגיאה בהתחברות - נתונים חסרים');
-      }
-      setUser(user);
-    } catch (error: any) {
-      throw new Error(error.response?.data?.message || error.message || 'שגיאה בהתחברות');
-    }
+    const response = await api.post('/auth/login', { email, password });
+    setUser(response.data.user);
+    return response.data;
   };
 
-  const register = async (email: string, password: string, name: string) => {
-    try {
-      const response = await axiosInstance.post('/api/auth/register', { email, password, name });
-      const user = response.data.user;
-      if (!user) {
-        throw new Error('שגיאה בהרשמה - נתונים חסרים');
-      }
-      setUser(user);
-    } catch (error: any) {
-      throw new Error(error.response?.data?.message || 'שגיאה בהרשמה');
-    }
+  const register = async (name: string, email: string, password: string) => {
+    const response = await api.post('/auth/register', { name, email, password });
+    setUser(response.data.user);
+    return response.data;
   };
 
-  const loginWithGoogle = async (token: string) => {
-    try {
-      const response = await axiosInstance.post('/api/auth/google', { token });
-      const user = response.data.user;
-      if (!user) {
-        throw new Error('שגיאה בהתחברות עם Google - נתונים חסרים');
-      }
-      setUser(user);
-    } catch (error: any) {
-      throw new Error(error.response?.data?.message || 'שגיאה בהתחברות עם Google');
-    }
+  const loginWithGoogle = async () => {
+    window.location.href = '/api/auth/google';
   };
 
   const logout = async () => {
     try {
-      await axiosInstance.post('/api/auth/logout');
-      setUser(null);
+      await api.post('/auth/logout');
     } catch (error) {
-      console.warn('שגיאה בניסיון להתנתק:', error);
-      setUser(null);
+      console.warn('Logout failed (ignored):', error);
     }
+    setUser(null);
   };
 
   const updateProfile = async (data: Partial<User>) => {
-    try {
-      const response = await axiosInstance.patch('/api/auth/me', data);
-      setUser(response.data);
-    } catch (error: any) {
-      throw new Error(error.response?.data?.message || 'שגיאה בעדכון פרופיל');
-    }
+    const response = await api.patch('/auth/me', data);
+    setUser(response.data.user);
+    return response.data;
   };
+
+  useEffect(() => {
+    const init = async () => {
+      try {
+        await checkAuth();
+      } catch (error) {
+        console.error('Init checkAuth failed:', error);
+      } finally {
+        // setLoading(false);
+      }
+    };
+    init();
+  }, []);
 
   const value: AuthContextType = {
     user,
@@ -102,6 +84,7 @@ export const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
     loginWithGoogle,
     logout,
     updateProfile,
+    checkAuth,
   };
 
   return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>;

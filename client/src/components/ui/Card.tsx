@@ -1,25 +1,23 @@
 // src/components/ui/Card.tsx
 import React from 'react';
-import { cn } from '../../lib/utils';
+import { cn } from '../../utils/cn';
 
 interface CardProps {
   children: React.ReactNode;
   className?: string;
-  padding?: 'sm' | 'md' | 'lg';
+  padding?: boolean;
 }
 
-const Card: React.FC<CardProps> = ({ children, className, padding = 'md' }) => {
-  const paddingClasses = {
-    sm: 'p-4',
-    md: 'p-6',
-    lg: 'p-8',
-  };
-
+export const Card: React.FC<CardProps> = ({
+  children,
+  className,
+  padding = true,
+}) => {
   return (
     <div
       className={cn(
         'bg-white rounded-lg shadow-md border border-gray-200',
-        paddingClasses[padding],
+        padding && 'p-6',
         className
       )}
     >
@@ -27,5 +25,3 @@ const Card: React.FC<CardProps> = ({ children, className, padding = 'md' }) => {
     </div>
   );
 };
-
-export default Card;

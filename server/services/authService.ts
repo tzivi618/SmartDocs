@@ -1,10 +1,57 @@
+// server/services/authService.ts
 import User from '../models/User';
 import bcrypt from 'bcrypt';
 import jwt from 'jsonwebtoken';
 import { Role } from '../types/role.enum';
 import DocumentModel from '../models/Document';
+import { OAuth2Client } from 'google-auth-library';
 import fs from 'fs/promises';
+
 const JWT_SECRET = process.env.JWT_SECRET || 'secret';
+const CLIENT_ID = process.env.GOOGLE_CLIENT_ID as string;
+const client = new OAuth2Client(CLIENT_ID);
+
+export const googleLogin = async (idToken: string) => {
+  const ticket = await client.verifyIdToken({
+    idToken,
+    audience: CLIENT_ID,
+  });
+
+  const payload = ticket.getPayload();
+
+  if (!payload || !payload.email) {
+    throw new Error('Invalid Google token');
+  }
+
+  let user = await User.findOne({ email: payload.email });
+
+  if (!user) {
+    user = new User({
+      name: payload.name || 'No Name',
+      email: payload.email,
+      password: '',
+      role: Role.USER,
+      avatar: payload.picture,
+    });
+
+    await user.save();
+  } else {
+    let needUpdate = false;
+    if (!user.avatar && payload.picture) {
+      user.avatar = payload.picture;
+      needUpdate = true;
+    }
+    if (needUpdate) {
+      await user.save();
+    }
+  }
+
+  const token = jwt.sign({ id: user._id, role: user.role }, JWT_SECRET, {
+    expiresIn: '1d',
+  });
+
+  return { token, user };
+};
 
 export const register = async (name: string, email: string, password: string) => {
   const existingUser = await User.findOne({ email });
@@ -49,7 +96,11 @@ export const login = async (email: string, password: string) => {
 };
 
 export const getUserById = async (userId: string) => {
-  return await User.findById(userId).select('-password');
+  const user = await User.findById(userId).select('-password');
+  if (!user) {
+    throw new Error('User not found');
+  }
+  return { user };
 };
 
 export const updateUser = async (userId: string, updateFields: Partial<{ name: string; email: string }>) => {
@@ -60,7 +111,11 @@ export const updateUser = async (userId: string, updateFields: Partial<{ name: s
     }
   }
 
-  return await User.findByIdAndUpdate(userId, { $set: updateFields }, { new: true }).select('-password');
+  const updatedUser = await User.findByIdAndUpdate(userId, { $set: updateFields }, { new: true }).select('-password');
+  if (!updatedUser) {
+    throw new Error('User not found');
+  }
+  return { user: updatedUser };
 };
 
 export const deleteUserAndDocuments = async (userId: string) => {
@@ -76,4 +131,6 @@ export const deleteUserAndDocuments = async (userId: string) => {
 
   await DocumentModel.deleteMany({ owner: userId });
   await User.findByIdAndDelete(userId);
+
+  return { message: 'User and all documents deleted successfully' };
 };
