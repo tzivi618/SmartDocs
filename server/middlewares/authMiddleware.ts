@@ -18,6 +18,7 @@ const authMiddleware = (req: Request, res: Response, next: NextFunction): void =
     const decoded = jwt.verify(token, JWT_SECRET) as { id: string; role: string };
     (req as any).user = decoded;
     logger.info(`User authenticated: ${decoded.id}`);
+    next();
   } catch (error) {
     logger.warn(`Invalid token: ${error}`);
     res.status(401).json({ message: 'Token is not valid' });

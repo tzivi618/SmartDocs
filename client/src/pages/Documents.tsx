@@ -104,21 +104,21 @@ export const Documents: React.FC = () => {
         <Grid container spacing={3}>
           {documents.map((doc) => (
             // <Grid item xs={12} sm={6} md={4} key={doc.id}>
-              <Card sx={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
+            <Card key={doc._id} sx={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
                 <CardContent sx={{ flexGrow: 1 }}>
                   <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', mb: 2 }}>
                     <DocumentIcon sx={{ color: 'primary.main', fontSize: 32 }} />
                     <Box>
                       <IconButton
                         size="small"
-                        onClick={() => handleDownload(doc.id)}
+                        onClick={() => handleDownload(doc._id)}
                         color="primary"
                       >
                         <Download />
                       </IconButton>
                       <IconButton
                         size="small"
-                        onClick={() => handleDelete(doc.id)}
+                        onClick={() => handleDelete(doc._id)}
                         color="error"
                       >
                         <Delete />

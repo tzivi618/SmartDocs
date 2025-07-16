@@ -8,7 +8,7 @@ export interface User {
 }
 
 export interface Document {
-  id: string;
+  _id: string;
   title: string;
   filename: string;
   size: number;

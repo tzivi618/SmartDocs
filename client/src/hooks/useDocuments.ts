@@ -3,6 +3,7 @@ import { useState, useEffect } from 'react';
 import { Document } from '../types';
 import api from '../services/api';
 import toast from 'react-hot-toast';
+import axios from 'axios';
 
 export const useDocuments = () => {
   const [documents, setDocuments] = useState<Document[]>([]);
@@ -13,7 +14,7 @@ export const useDocuments = () => {
     try {
       setLoading(true);
       const response = await api.get('/documents');
-      setDocuments(response.data.data);
+      setDocuments(response.data);
     } catch (error) {
       console.error('Error fetching documents:', error);
     } finally {
@@ -35,30 +36,33 @@ export const useDocuments = () => {
     await fetchDocuments();
   };
 
-  const downloadDocument = async (id: string) => {
-    try {
-      const response = await api.get(`/documents/download/${id}`, {
-        responseType: 'blob',
-      });
-      
-      const url = window.URL.createObjectURL(new Blob([response.data]));
-      const link = document.createElement('a');
-      link.href = url;
-      
-      const contentDisposition = response.headers['content-disposition'];
-      const filename = contentDisposition
-        ? contentDisposition.split('filename=')[1]?.replace(/"/g, '')
-        : 'download';
-      
-      link.setAttribute('download', filename);
-      document.body.appendChild(link);
-      link.click();
-      link.remove();
-      window.URL.revokeObjectURL(url);
-    } catch (error) {
-      toast.error('Failed to download document');
-    }
-  };
+const downloadDocument = async (id: string) => {
+  try {
+    const response = await api.get(`/documents/download/${id}`, {
+      responseType: 'blob',
+    });
+
+    const blob = new Blob([response.data], { type: response.data.type });
+    const url = window.URL.createObjectURL(blob);
+
+    const disposition = response.headers['content-disposition'];
+    const match = disposition?.match(/filename="?([^"]+)"?/);
+    const filename = match ? decodeURIComponent(match[1]) : 'download';
+
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    window.URL.revokeObjectURL(url);
+
+  } catch (err) {
+    console.error('Download failed:', err);
+    toast.error('ההורדה נכשלה');
+  }
+};
+  
 
   const deleteDocument = async (id: string) => {
     await api.delete(`/documents/${id}`);

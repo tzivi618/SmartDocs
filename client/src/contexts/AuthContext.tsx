@@ -70,7 +70,7 @@ export const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
       } catch (error) {
         console.error('Init checkAuth failed:', error);
       } finally {
-        // setLoading(false);
+         setLoading(false);
       }
     };
     init();
