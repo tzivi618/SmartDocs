@@ -1,0 +1,2225 @@
+[2025-07-08T14:02:09.774] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-08T14:02:09.850] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-08T14:05:09.172] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-08T14:05:09.176] [ERROR] default - Login failed: Invalid email or password
+[2025-07-08T14:05:13.576] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-08T14:05:13.578] [ERROR] default - Login failed: Invalid email or password
+[2025-07-08T14:05:14.134] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-08T14:05:14.136] [ERROR] default - Login failed: Invalid email or password
+[2025-07-08T14:05:14.331] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-08T14:05:14.334] [ERROR] default - Login failed: Invalid email or password
+[2025-07-08T14:05:14.685] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-08T14:05:14.688] [ERROR] default - Login failed: Invalid email or password
+[2025-07-09T13:02:52.848] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-09T13:02:52.922] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-09T13:14:52.579] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-09T13:14:52.720] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-09T13:15:01.348] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-09T13:15:01.514] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-09T13:23:22.547] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-09T13:23:22.606] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-09T13:23:23.862] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-09T13:23:23.920] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-09T13:23:24.593] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-09T13:23:24.655] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-09T13:23:25.681] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-09T13:23:25.740] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-09T13:23:26.170] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-09T13:23:26.230] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-09T14:39:08.120] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-09T14:39:08.206] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-09T14:42:02.655] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-09T14:42:02.740] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-09T14:58:08.918] [DEBUG] default - POST /auth/register - Attempting to register new user
+[2025-07-09T14:58:09.134] [INFO] default - User registered successfully: 686e59516599e1277b0a32b7
+[2025-07-09T14:59:00.347] [DEBUG] default - POST /auth/register - Attempting to register new user
+[2025-07-09T14:59:00.351] [ERROR] default - Registration failed: User already exists
+[2025-07-09T14:59:37.922] [DEBUG] default - POST /auth/register - Attempting to register new user
+[2025-07-09T14:59:38.065] [INFO] default - User registered successfully: 686e59aa6599e1277b0a32bb
+[2025-07-09T15:05:48.382] [DEBUG] default - POST /auth/register - Attempting to register new user
+[2025-07-09T15:05:48.386] [ERROR] default - Registration failed: User already exists
+[2025-07-09T16:21:20.257] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-09T16:21:20.340] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-09T16:21:41.787] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-09T16:21:41.924] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-09T16:35:15.454] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-09T16:35:15.525] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-09T16:53:14.783] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-09T16:53:14.891] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-09T17:03:04.199] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-09T17:03:04.272] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-09T17:03:04.286] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:03:04.290] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:05:53.006] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-09T17:05:53.065] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-09T17:05:53.087] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:05:53.090] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:01.842] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:04.237] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:04.240] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:07.323] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:07.326] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:10.583] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:10.587] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:13.900] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:13.903] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:16.819] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:16.821] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:19.873] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:19.880] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:22.863] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:22.866] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:26.035] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:26.038] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:29.189] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:29.192] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:33.725] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:33.729] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:37.575] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:37.578] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:41.299] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:41.302] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:53.844] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:53.846] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:56.140] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:56.143] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:59.686] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:15:59.690] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:16:03.983] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:16:03.986] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:16:08.167] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:16:08.170] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:16:12.535] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:16:12.538] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:16:16.514] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:16:16.518] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:16:20.607] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:16:20.612] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:16:24.503] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:16:24.507] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:16:28.331] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:16:28.334] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:16:32.455] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:16:32.460] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:16:36.243] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:16:36.247] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:16:40.517] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:16:40.521] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:16:49.656] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:16:49.659] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:16:54.608] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:16:54.610] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:17:02.824] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:17:02.827] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:17:06.283] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:17:06.287] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:17:12.388] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:17:12.393] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:17:15.909] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:17:15.914] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:17:21.832] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:17:21.835] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:17:25.560] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:17:25.564] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:17:32.082] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:17:32.085] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:17:35.365] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:17:35.369] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:17:44.478] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:17:44.482] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:17:48.786] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:17:48.790] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:17:57.195] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:17:57.201] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:18:01.931] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:18:01.935] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:18:10.214] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:18:10.220] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:18:14.524] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:18:14.528] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:18:20.687] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:18:20.719] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:18:25.098] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:18:25.102] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:18:29.450] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:18:29.454] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:18:35.048] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:18:35.051] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:18:41.388] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:18:41.392] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:18:48.306] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:18:48.310] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:18:53.121] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:18:53.125] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:18:56.956] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:18:56.959] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:00.704] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:00.710] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:04.712] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:04.715] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:08.446] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:08.450] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:12.326] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:12.329] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:16.005] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:16.035] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:19.469] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:19.473] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:23.079] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:23.082] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:26.439] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:26.443] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:29.866] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:29.869] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:33.514] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:33.518] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:36.811] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:36.814] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:40.273] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:40.275] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:43.791] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:43.794] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:47.398] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:47.401] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:51.073] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:51.077] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:54.831] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:54.835] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:58.751] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:19:58.754] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:20:02.790] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:20:02.793] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:20:06.678] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:20:06.681] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:52.957] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:52.960] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:53.479] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:53.481] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:53.852] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:53.854] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:54.016] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:54.020] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:54.199] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:54.202] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:54.376] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:54.379] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:54.546] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:54.549] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:54.708] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:54.711] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:54.894] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:54.896] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:55.050] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:55.053] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:55.202] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:55.204] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:55.365] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:55.367] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:55.514] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:55.516] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:55.667] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:55.670] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:55.848] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:55.850] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:56.018] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:56.021] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:56.172] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:56.174] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:56.315] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:56.317] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:56.471] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:56.472] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:56.631] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:56.633] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:56.785] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:56.787] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:56.926] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:56.929] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:57.075] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:57.077] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:57.218] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:57.220] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:57.364] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:57.366] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:57.507] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:57.509] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:57.668] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:57.670] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:57.827] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:57.829] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:57.999] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:58.002] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:58.145] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:58.147] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:58.288] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:58.289] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:58.435] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:58.438] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:58.624] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:58.626] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:58.796] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:58.798] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:59.251] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:21:59.254] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:03.388] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:03.391] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:05.721] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:05.725] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:12.431] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:12.435] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:14.957] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:14.960] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:20.212] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:20.214] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:23.944] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:23.947] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:29.401] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:29.404] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:33.082] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:33.084] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:37.105] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:37.113] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:40.754] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:40.756] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:44.625] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:44.627] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:48.620] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:48.623] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:52.732] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:52.735] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:56.732] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:22:56.736] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:23:00.906] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:23:00.910] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:23:04.958] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:23:04.960] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:23:08.895] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:23:08.898] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:23:12.985] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:23:12.988] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:23:17.597] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:23:17.600] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:23:23.233] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:23:23.237] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:23:29.204] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:23:29.206] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:23:33.686] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:23:33.691] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:23:40.306] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:23:40.307] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:23:46.419] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:23:46.421] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:23:51.831] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:23:51.833] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:23:57.676] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:23:57.678] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:24:03.203] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:24:03.205] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:24:07.477] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:24:07.479] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:24:11.928] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:24:11.930] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:24:16.686] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:24:16.688] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:24:21.223] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:24:21.225] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:24:25.967] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:24:25.969] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:24:30.884] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:24:30.887] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:24:34.940] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:24:34.943] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:24:54.666] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:24:54.677] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:24:59.648] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:24:59.652] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:25:03.717] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:25:03.722] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:25:09.078] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:25:09.082] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:25:13.172] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:25:13.178] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:42.421] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:42.424] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:43.056] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:43.059] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:43.343] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:43.346] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:43.542] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:43.546] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:43.755] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:43.757] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:43.943] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:43.946] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:44.127] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:44.130] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:44.311] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:44.314] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:44.477] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:44.479] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:44.640] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:44.643] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:44.790] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:44.792] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:44.965] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:44.967] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:45.140] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:45.142] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:47.544] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:47.547] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:51.977] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:26:51.980] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:27:52.267] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:29:02.250] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:29:02.253] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:29:05.308] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:29:05.310] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:29:08.713] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:29:08.715] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:29:39.724] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:29:39.727] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:29:42.385] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:29:42.388] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:25.470] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:25.482] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:26.215] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:26.219] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:26.512] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:26.516] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:26.670] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:26.673] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:26.830] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:26.838] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:27.019] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:27.022] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:27.187] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:27.189] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:27.351] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:27.354] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:27.526] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:27.529] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:27.678] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:27.680] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:27.834] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:27.837] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:27.983] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:27.984] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:28.128] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:28.130] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:28.288] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:28.290] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:28.429] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:28.431] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:28.570] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:28.572] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:28.715] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:28.717] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:28.863] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:28.865] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:29.000] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:29.003] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:29.140] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:29.142] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:29.288] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:29.290] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:29.458] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:29.461] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:29.604] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:29.606] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:29.752] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:29.754] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:29.895] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:29.897] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:30.049] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:30.051] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:30.197] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:30.198] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:30.346] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:30.348] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:30.490] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:30.492] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:30.632] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:30.634] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:30.787] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:30.795] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:30.943] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:30.946] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:31.111] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:31.113] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:31.267] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:31.276] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:31.427] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:31.429] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:31.581] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:31.583] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:31.741] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:31.743] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:31.886] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:31.888] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:32.050] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:32.052] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:32.195] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:54:32.197] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:55:00.357] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:55:00.361] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:55:37.626] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:55:37.630] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:55:40.446] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:55:40.448] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:55:44.978] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:55:44.981] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:55:47.785] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:55:47.788] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:55:52.289] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:55:52.292] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:55:55.066] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:55:55.069] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:56:01.198] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:56:01.203] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:56:08.975] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:56:08.978] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:56:15.404] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:56:15.408] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:56:18.818] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:56:18.821] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:56:25.576] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:56:25.579] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:56:29.787] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:56:29.792] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:56:33.990] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:56:33.993] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:56:38.006] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:56:38.010] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:56:41.934] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:56:41.937] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:56:46.151] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:56:46.155] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:56:49.962] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:56:49.966] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:56:53.969] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:56:53.974] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:56:58.081] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:56:58.085] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:57:02.941] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:57:02.945] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:57:08.259] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:57:08.262] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:57:12.975] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:57:12.978] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:57:17.769] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:57:17.774] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:57:21.943] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:57:21.946] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:57:26.097] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:57:26.102] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:57:30.880] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:57:30.885] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:57:35.797] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:57:35.800] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:57:40.416] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:57:40.420] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:57:44.769] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:57:44.782] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:57:48.985] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:57:48.991] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:57:53.091] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:57:53.095] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:57:57.063] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:57:57.067] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:58:01.519] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:58:01.524] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:58:05.483] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:58:05.487] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:58:09.647] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:58:09.651] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:58:13.757] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:58:13.762] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:58:18.298] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:58:18.303] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:58:22.275] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:58:22.282] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:58:26.564] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:58:26.568] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:58:31.099] [WARN] default - Authorization failed: No token provided
+[2025-07-09T17:58:31.104] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:15.369] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:15.373] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:16.102] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:16.109] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:16.325] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:16.327] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:16.494] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:16.496] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:16.655] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:16.657] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:16.814] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:16.818] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:16.990] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:16.993] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:17.146] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:17.148] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:17.291] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:17.293] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:17.430] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:17.432] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:17.566] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:17.568] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:17.712] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:17.714] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:17.876] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:17.878] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:18.023] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:18.025] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:18.180] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:18.182] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:18.333] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:18.335] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:18.478] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:18.480] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:18.622] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:18.623] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:18.760] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:18.762] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:18.903] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:18.905] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:19.050] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:19.053] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:19.193] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:19.195] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:19.339] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:19.341] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:19.486] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:19.488] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:19.629] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:19.630] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:19.778] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:19.780] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:19.917] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:19.919] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:20.059] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:20.061] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:20.195] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:20.197] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:20.330] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:20.332] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:20.464] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:20.466] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:20.608] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:20.609] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:20.762] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:20.764] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:20.904] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:20.906] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:21.048] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:21.050] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:21.197] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:21.199] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:21.339] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:21.341] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:21.485] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:21.487] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:21.633] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:02:21.635] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:53.859] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:53.862] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:54.044] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:54.048] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:54.206] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:54.209] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:54.373] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:54.375] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:54.554] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:54.556] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:54.689] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:54.692] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:54.835] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:54.837] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:54.973] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:54.975] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:55.110] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:55.112] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:55.250] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:55.252] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:55.390] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:55.392] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:55.538] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:55.539] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:55.674] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:55.677] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:55.816] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:55.818] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:55.955] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:55.957] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:56.092] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:56.093] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:56.228] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:56.230] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:56.372] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:56.374] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:56.519] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:56.520] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:56.662] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:56.664] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:56.816] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:56.818] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:56.965] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:56.967] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:57.120] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:57.122] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:57.272] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:57.273] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:57.417] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:57.419] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:57.557] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:57.559] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:57.702] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:57.703] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:57.841] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:57.843] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:57.981] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:57.983] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:58.123] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:58.125] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:58.265] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:58.266] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:58.411] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:58.414] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:58.561] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:58.563] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:58.700] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:58.702] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:58.851] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:58.853] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:59.011] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:59.014] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:59.168] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:59.170] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:59.314] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:59.323] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:59.477] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:59.479] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:59.629] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:59.630] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:59.784] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:59.786] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:59.934] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:06:59.936] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:07:43.662] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:07:43.665] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:07:46.942] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:07:46.946] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:07:49.846] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:07:49.848] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:07:53.317] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:07:53.320] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:07:56.268] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:07:56.271] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:07:59.863] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:07:59.866] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:08:03.156] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:08:03.159] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:08:07.536] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:08:07.539] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:08:11.476] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:08:11.481] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:08:24.480] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:08:24.485] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:08:28.772] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:08:28.776] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:08:34.493] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:08:34.497] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:08:38.997] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:08:39.003] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:08:43.453] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:08:43.460] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:08:47.280] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:08:47.285] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:08:52.101] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:08:52.107] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:08:57.405] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:08:57.418] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:09:06.414] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:09:06.418] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:09:10.945] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:09:10.949] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:09:15.385] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:09:15.389] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:09:19.585] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:09:19.590] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:09:23.881] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:09:23.886] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:09:27.983] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:09:27.987] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:09:32.224] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:09:32.228] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:09:36.767] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:09:36.771] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:09:41.016] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:09:41.021] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:09:45.289] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:09:45.293] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:09:49.935] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:09:49.939] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:09:54.337] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:09:54.341] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:09:58.950] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:09:58.956] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:03.714] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:03.719] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:08.287] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:08.291] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:12.731] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:12.736] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:17.154] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:17.158] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:21.725] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:21.729] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:26.079] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:26.090] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:30.159] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:30.162] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:34.228] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:34.232] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:38.178] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:38.184] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:42.255] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:42.260] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:46.216] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:46.220] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:50.177] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:50.181] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:54.334] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:54.339] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:58.392] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:10:58.396] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:02.621] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:02.625] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:06.609] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:06.615] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:10.563] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:10.568] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:14.482] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:14.485] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:18.435] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:18.439] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:22.758] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:22.762] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:27.482] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:27.486] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:31.518] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:31.522] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:35.692] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:35.696] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:39.787] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:39.791] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:43.982] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:43.986] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:47.967] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:47.971] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:51.929] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:51.933] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:55.954] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:11:55.961] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:00.256] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:00.262] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:04.380] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:04.384] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:08.676] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:08.683] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:12.905] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:12.909] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:16.815] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:16.819] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:20.753] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:20.760] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:24.635] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:24.640] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:28.509] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:28.512] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:32.444] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:32.448] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:36.387] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:36.391] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:40.575] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:40.579] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:44.756] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:44.760] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:49.052] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:49.056] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:53.237] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:53.245] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:57.431] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:12:57.435] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:13:01.824] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:13:01.829] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:13:05.761] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:13:05.765] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:13:09.778] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:13:09.781] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:13:13.781] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:13:13.786] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:13:18.305] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:13:18.310] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:13:22.520] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:13:22.528] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:13:30.965] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:13:30.973] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:13:35.955] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:13:35.960] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:13:40.862] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:13:40.866] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:13:45.765] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:13:45.790] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:13:50.301] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:13:50.308] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:13:54.692] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:13:54.696] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:13:58.987] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:13:58.991] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:03.611] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:03.616] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:08.037] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:08.041] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:12.204] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:12.209] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:16.492] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:16.495] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:20.406] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:20.409] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:24.350] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:24.356] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:28.321] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:28.324] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:32.729] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:32.736] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:36.861] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:36.863] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:40.094] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:40.096] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:43.285] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:43.289] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:46.865] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:46.870] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:50.339] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:50.344] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:53.744] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:53.748] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:57.240] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:14:57.243] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:00.903] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:00.910] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:04.680] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:04.683] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:08.029] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:08.034] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:11.618] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:11.621] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:14.980] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:14.983] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:18.491] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:18.494] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:22.221] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:22.225] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:25.792] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:25.794] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:29.569] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:29.573] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:33.542] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:33.546] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:37.361] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:37.364] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:41.196] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:41.200] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:45.061] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:45.065] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:48.633] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:48.637] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:52.359] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:52.362] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:56.028] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:56.033] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:59.959] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:15:59.962] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:04.055] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:04.059] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:07.734] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:07.738] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:11.215] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:11.220] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:14.835] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:14.838] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:18.481] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:18.484] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:22.179] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:22.183] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:26.192] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:26.195] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:30.297] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:30.300] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:33.919] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:33.924] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:37.764] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:37.767] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:41.768] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:41.772] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:45.406] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:45.411] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:49.166] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:49.169] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:53.028] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:53.032] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:56.861] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:16:56.863] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:00.556] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:00.560] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:04.373] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:04.377] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:08.564] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:08.568] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:12.763] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:12.766] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:16.598] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:16.603] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:20.441] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:20.444] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:23.935] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:23.938] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:27.398] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:27.401] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:31.358] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:31.361] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:34.996] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:35.277] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:39.434] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:39.441] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:43.390] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:43.392] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:47.171] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:47.173] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:50.763] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:50.771] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:54.738] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:54.742] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:58.588] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:17:58.592] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:02.968] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:02.971] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:06.620] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:06.623] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:10.392] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:10.395] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:14.679] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:14.683] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:18.589] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:18.593] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:22.699] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:22.703] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:26.545] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:26.554] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:30.433] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:30.440] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:34.377] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:34.383] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:38.273] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:38.278] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:42.053] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:42.056] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:45.969] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:45.972] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:50.224] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:50.227] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:54.098] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:54.104] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:57.649] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:18:57.653] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:01.508] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:01.511] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:05.233] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:05.237] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:09.682] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:09.687] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:13.904] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:13.910] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:18.291] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:18.309] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:23.261] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:23.281] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:27.360] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:27.369] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:31.480] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:31.487] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:35.632] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:35.637] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:39.608] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:39.612] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:43.551] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:43.554] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:47.690] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:47.694] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:51.830] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:51.838] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:56.235] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:19:56.239] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:00.572] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:00.575] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:04.383] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:04.387] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:07.920] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:07.922] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:11.440] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:11.444] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:15.269] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:15.274] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:19.166] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:19.169] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:23.156] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:23.160] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:26.809] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:26.811] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:30.544] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:30.547] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:34.078] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:34.082] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:37.708] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:37.711] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:41.349] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:41.352] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:45.190] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:45.194] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:49.432] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:49.436] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:53.280] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:53.285] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:57.254] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:20:57.258] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:00.903] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:00.908] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:04.731] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:04.735] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:08.632] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:08.635] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:12.433] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:12.436] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:16.212] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:16.215] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:19.903] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:19.907] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:23.388] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:23.392] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:27.020] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:27.023] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:30.660] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:30.665] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:34.209] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:34.212] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:37.912] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:37.915] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:41.702] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:41.705] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:45.765] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:45.768] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:49.421] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:49.424] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:52.978] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:52.986] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:56.540] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:21:56.543] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:00.289] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:00.294] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:04.129] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:04.132] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:07.931] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:07.934] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:11.944] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:11.954] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:15.920] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:15.928] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:19.802] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:19.807] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:23.267] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:23.270] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:26.973] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:26.976] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:30.490] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:30.491] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:34.073] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:34.077] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:37.905] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:37.908] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:41.464] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:41.467] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:45.057] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:45.060] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:49.510] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:49.518] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:53.377] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:53.382] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:57.045] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:22:57.048] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:00.625] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:00.628] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:04.485] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:04.488] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:08.123] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:08.126] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:12.127] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:12.133] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:15.843] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:15.855] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:20.836] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:20.918] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:23.972] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:23.975] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:27.931] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:27.934] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:31.879] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:31.881] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:35.777] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:35.782] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:39.710] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:39.714] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:43.342] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:43.348] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:47.079] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:47.083] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:50.976] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:50.981] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:55.591] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:55.594] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:59.696] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:23:59.698] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:04.110] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:04.114] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:08.000] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:08.003] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:11.570] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:11.573] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:15.269] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:15.272] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:19.182] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:19.186] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:23.189] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:23.193] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:27.391] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:27.394] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:31.019] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:31.022] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:34.541] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:34.544] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:38.357] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:38.363] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:42.118] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:42.122] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:45.746] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:45.750] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:49.435] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:49.440] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:53.026] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:53.032] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:56.543] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:24:56.549] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:00.505] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:00.509] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:04.586] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:04.588] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:08.335] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:08.339] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:12.431] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:12.436] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:16.020] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:16.024] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:19.654] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:19.657] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:23.110] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:23.115] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:26.873] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:26.877] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:31.224] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:31.231] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:35.312] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:35.317] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:38.955] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:38.958] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:42.414] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:42.418] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:46.184] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:46.186] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:49.807] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:49.810] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:53.544] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:53.548] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:57.583] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:25:57.587] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:01.368] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:01.371] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:04.937] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:04.940] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:08.719] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:08.722] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:12.648] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:12.652] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:16.315] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:16.319] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:20.466] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:20.470] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:24.167] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:24.171] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:27.877] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:27.881] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:31.782] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:31.795] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:35.621] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:35.629] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:39.493] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:39.496] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:43.729] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:43.733] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:47.708] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:47.714] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:51.425] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:51.430] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:55.334] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:55.342] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:59.148] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:26:59.151] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:27:02.990] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:27:02.996] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:27:08.018] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:27:08.027] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:27:12.256] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:27:12.260] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:27:16.089] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:27:16.092] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:27:30.583] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:27:30.585] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:27:33.310] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:27:33.315] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:27:36.995] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:27:36.998] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:27:41.106] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:27:41.109] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:27:46.554] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:27:46.559] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:27:50.850] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:27:51.010] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:27:55.177] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:27:55.180] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:27:59.036] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:27:59.045] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:02.851] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:02.854] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:06.644] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:06.647] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:10.454] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:10.457] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:14.136] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:14.140] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:18.495] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:18.624] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:22.405] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:22.408] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:26.051] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:26.054] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:29.665] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:29.668] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:33.395] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:33.400] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:37.069] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:37.073] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:40.721] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:40.724] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:44.690] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:44.698] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:48.513] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:48.516] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:52.127] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:52.131] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:55.748] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:55.751] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:59.625] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:28:59.630] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:03.607] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:03.610] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:07.219] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:07.223] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:10.886] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:10.890] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:14.688] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:14.691] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:18.611] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:18.614] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:22.335] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:22.338] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:26.234] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:26.239] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:29.801] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:29.831] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:33.906] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:33.911] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:37.842] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:37.845] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:42.068] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:42.070] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:46.059] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:46.062] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:50.291] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:50.295] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:54.279] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:54.303] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:58.122] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:29:58.123] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:02.229] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:02.233] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:06.010] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:06.014] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:10.131] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:10.134] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:13.919] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:13.925] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:17.888] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:17.913] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:22.707] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:22.712] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:26.788] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:27.223] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:36.860] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:36.863] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:39.995] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:39.998] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:43.657] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:43.661] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:47.477] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:47.479] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:51.473] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:51.477] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:55.151] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:55.154] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:59.424] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:30:59.429] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:03.555] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:03.559] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:07.218] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:07.221] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:10.814] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:10.816] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:14.720] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:14.724] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:18.443] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:18.446] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:22.102] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:22.106] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:25.890] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:25.893] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:29.701] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:29.705] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:33.629] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:33.632] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:37.434] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:37.438] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:41.020] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:41.024] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:44.627] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:44.631] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:48.296] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:48.299] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:52.110] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:52.141] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:55.616] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:55.621] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:59.735] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:31:59.740] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:03.955] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:03.963] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:08.033] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:08.037] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:11.833] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:11.839] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:15.617] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:15.621] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:19.466] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:19.469] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:23.087] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:23.092] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:26.747] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:26.751] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:30.639] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:30.669] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:35.340] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:35.346] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:39.413] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:39.469] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:43.207] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:43.232] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:46.924] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:46.926] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:50.554] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:50.556] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:54.752] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:54.755] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:59.557] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:32:59.567] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:03.934] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:03.938] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:07.503] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:07.505] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:11.527] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:11.530] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:15.694] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:15.697] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:19.363] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:19.399] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:23.870] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:23.874] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:27.562] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:27.564] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:31.087] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:31.091] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:34.692] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:34.698] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:39.006] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:39.009] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:42.798] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:42.800] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:46.258] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:46.262] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:50.116] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:50.119] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:53.808] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:53.814] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:57.757] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:33:57.762] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:01.833] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:01.838] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:05.413] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:05.416] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:09.288] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:09.291] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:12.910] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:12.914] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:16.501] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:16.506] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:20.114] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:20.116] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:24.129] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:24.134] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:27.912] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:27.915] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:31.634] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:31.641] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:35.532] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:35.536] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:39.409] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:39.413] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:43.223] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:43.226] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:46.773] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:46.776] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:50.600] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:50.604] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:54.633] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:54.638] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:58.187] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:34:58.193] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:02.078] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:02.084] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:05.651] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:05.653] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:09.217] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:09.223] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:13.056] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:13.060] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:16.756] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:16.760] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:20.751] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:20.755] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:24.555] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:24.561] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:28.629] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:28.634] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:32.223] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:32.225] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:35.895] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:35.899] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:39.745] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:39.748] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:43.410] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:43.415] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:47.085] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:47.089] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:51.151] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:51.154] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:55.113] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:55.136] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:58.969] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:35:58.973] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:03.661] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:03.664] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:08.953] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:08.964] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:12.545] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:12.552] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:16.004] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:16.006] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:20.042] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:20.044] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:24.347] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:24.349] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:28.178] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:28.234] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:32.266] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:32.269] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:36.899] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:36.902] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:41.590] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:41.627] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:45.299] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:45.302] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:50.174] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:50.178] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:54.292] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:54.295] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:57.894] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:36:57.897] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:01.762] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:01.764] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:05.786] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:05.788] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:09.650] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:09.652] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:13.409] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:13.412] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:17.094] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:17.099] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:20.921] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:20.925] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:24.838] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:24.841] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:28.788] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:28.791] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:32.665] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:32.669] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:36.291] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:36.293] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:40.069] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:40.072] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:43.881] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:43.884] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:48.274] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:48.278] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:52.019] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:52.028] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:55.965] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:55.968] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:59.668] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:37:59.672] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:03.368] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:03.372] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:06.954] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:06.956] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:10.656] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:10.661] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:14.382] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:14.384] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:18.253] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:18.255] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:22.106] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:22.109] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:26.444] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:26.448] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:30.157] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:30.161] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:33.994] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:33.998] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:37.699] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:37.702] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:41.424] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:41.427] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:45.206] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:45.210] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:48.818] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:48.820] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:52.489] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:52.492] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:56.904] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:38:56.907] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:39:01.181] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:39:01.184] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:39:04.890] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:39:04.896] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:39:08.630] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:39:08.634] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:39:12.617] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:39:12.625] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:39:16.362] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:39:16.365] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:39:19.959] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:39:19.962] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:39:24.079] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:39:24.085] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:39:28.668] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:39:28.672] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:39:32.832] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:39:32.836] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:39:38.119] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:39:38.122] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:39:42.410] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:39:42.412] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:39:53.484] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:39:53.497] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:00.040] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:00.046] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:04.265] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:04.269] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:08.348] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:08.351] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:12.014] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:12.017] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:15.711] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:15.715] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:19.586] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:19.590] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:23.508] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:23.517] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:27.568] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:27.571] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:31.275] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:31.325] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:34.980] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:34.985] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:38.590] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:38.593] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:43.160] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:43.165] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:46.755] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:46.759] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:50.534] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:50.537] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:54.861] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:54.879] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:59.192] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:40:59.198] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:03.120] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:03.123] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:07.073] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:07.075] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:11.098] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:11.102] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:14.770] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:14.775] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:18.363] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:18.366] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:21.975] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:21.979] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:25.784] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:25.787] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:29.623] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:29.628] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:33.942] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:33.946] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:38.311] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:38.317] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:43.440] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:43.455] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:48.217] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:48.226] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:52.877] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:52.882] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:57.376] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:41:57.382] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:42:02.085] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:42:02.089] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:42:06.884] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:42:06.887] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:42:11.233] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:42:11.239] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:42:24.649] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:42:24.677] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:42:28.830] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:42:28.890] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:42:33.235] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:42:33.378] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:42:39.025] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:42:39.029] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:42:48.210] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:42:48.332] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:42:59.154] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:42:59.234] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:43:17.053] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:43:17.061] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:43:21.317] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:43:21.320] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:43:24.915] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:43:24.920] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:43:28.981] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:43:28.999] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:43:34.522] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:43:34.526] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:43:40.960] [WARN] default - Authorization failed: No token provided
+[2025-07-09T18:43:41.002] [WARN] default - Authorization failed: No token provided
+[2025-07-09T19:00:24.533] [WARN] default - Authorization failed: No token provided
+[2025-07-09T19:00:24.535] [WARN] default - Authorization failed: No token provided
+[2025-07-09T19:00:39.162] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-09T19:00:39.367] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-09T19:00:39.388] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-09T19:00:59.396] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-09T19:01:26.050] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-09T19:01:33.651] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-09T19:01:33.664] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-09T19:01:58.339] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-09T19:02:03.172] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-09T19:02:07.326] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-09T19:02:07.331] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-09T19:02:16.520] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-09T19:02:16.523] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T12:10:18.536] [WARN] default - Invalid token: TokenExpiredError: jwt expired
+[2025-07-13T12:10:18.563] [WARN] default - Invalid token: TokenExpiredError: jwt expired
+[2025-07-13T12:10:51.121] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-13T12:10:51.326] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-13T12:11:06.594] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-13T12:11:06.724] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-13T12:11:16.240] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T12:11:18.977] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T12:11:38.992] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T12:12:41.373] [DEBUG] default - POST /auth/register - Attempting to register new user
+[2025-07-13T12:12:41.544] [INFO] default - User registered successfully: 68737889ae6d62d8ad3efad3
+[2025-07-13T12:19:11.886] [INFO] default - User authenticated: 68737889ae6d62d8ad3efad3
+[2025-07-13T12:19:33.886] [INFO] default - User authenticated: 68737889ae6d62d8ad3efad3
+[2025-07-13T12:20:38.874] [INFO] default - User authenticated: 68737889ae6d62d8ad3efad3
+[2025-07-13T12:20:40.863] [INFO] default - User authenticated: 68737889ae6d62d8ad3efad3
+[2025-07-13T12:21:37.388] [INFO] default - User authenticated: 68737889ae6d62d8ad3efad3
+[2025-07-13T12:21:37.841] [INFO] default - User authenticated: 68737889ae6d62d8ad3efad3
+[2025-07-13T12:21:38.273] [INFO] default - User authenticated: 68737889ae6d62d8ad3efad3
+[2025-07-13T12:21:58.281] [INFO] default - User authenticated: 68737889ae6d62d8ad3efad3
+[2025-07-13T12:37:11.946] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-13T12:37:12.066] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-13T12:47:54.267] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T12:47:59.976] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-13T12:48:00.073] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-13T12:48:14.279] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T13:01:38.833] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T13:01:58.827] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T13:16:35.983] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T13:16:55.991] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T13:55:51.661] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T13:55:51.671] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T13:56:02.493] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-13T13:56:02.663] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-13T14:02:41.896] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T14:02:41.900] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T14:02:51.380] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T14:02:56.608] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-13T14:02:56.675] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-13T14:03:05.527] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T14:03:25.540] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T14:05:58.356] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T14:06:18.371] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T14:09:27.266] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-13T14:09:27.368] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-13T14:16:45.591] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T14:16:45.595] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T14:19:54.879] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T14:21:46.342] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-13T14:21:46.474] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-13T14:21:54.143] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-13T14:21:54.232] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-13T14:22:25.110] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T14:22:37.409] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-13T14:22:37.466] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-13T14:25:17.426] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T14:25:38.743] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T14:25:38.750] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T14:53:22.517] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-13T14:53:22.641] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-13T14:53:33.080] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T14:53:33.083] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T14:56:59.177] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T14:56:59.186] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T14:58:03.762] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-13T14:58:03.931] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-13T14:58:28.028] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:01:32.566] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:01:32.569] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:01:41.867] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:01:41.871] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:01:47.925] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:01:47.929] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:02:01.541] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:02:05.035] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:02:25.056] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:02:38.103] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:02:58.113] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:08:07.881] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:08:15.875] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:08:25.072] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:08:30.406] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-13T15:08:30.464] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:08:41.935] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:08:41.937] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:08:49.949] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:08:49.951] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:14:25.850] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:14:28.842] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:14:29.847] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:14:31.844] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:14:36.254] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:14:36.257] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:14:40.917] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:14:40.921] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:14:46.297] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-13T15:14:46.392] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:18:01.407] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:18:01.410] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:18:12.192] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-13T15:18:12.287] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:20:20.006] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:20:20.010] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:23:18.110] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:23:29.337] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:23:49.347] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:35:12.839] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:35:12.843] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:35:51.485] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:35:51.488] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:36:01.557] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-13T15:36:01.639] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:37:13.505] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:37:13.507] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:41:13.578] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:41:13.580] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:44:04.064] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:44:04.067] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:44:12.624] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:44:20.176] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:44:20.179] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:44:26.981] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-13T15:44:27.122] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:46:02.858] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:46:02.861] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:46:02.931] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:46:09.632] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:46:29.644] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:46:55.433] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:46:55.437] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:46:56.483] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:46:56.488] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:46:57.761] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:46:57.766] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:50:18.269] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:50:18.273] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:50:23.134] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:50:23.136] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:50:23.842] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:50:23.845] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:50:29.441] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:50:29.442] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:50:34.209] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:53:48.508] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:53:54.455] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T15:53:54.457] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T16:05:52.898] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T16:05:59.416] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T16:05:59.420] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T16:06:07.373] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-13T16:06:07.458] [INFO] default - Login successful for user: 6862800e3ad036786d5cbfa9
+[2025-07-13T16:06:32.857] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T16:06:35.845] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T16:06:38.842] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T16:07:11.770] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T16:07:11.774] [INFO] default - User authenticated: 6862800e3ad036786d5cbfa9
+[2025-07-13T16:07:46.353] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-13T16:07:46.444] [INFO] default - Login successful for user: 6865163600c951adfc7cb6ce
+[2025-07-13T16:24:07.854] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:25:21.847] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:25:24.851] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:25:50.846] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:26:40.427] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:26:40.430] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:26:45.585] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-13T16:26:45.685] [INFO] default - Login successful for user: 6865163600c951adfc7cb6ce
+[2025-07-13T16:34:22.854] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:34:22.856] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:34:30.560] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:34:30.562] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:45:55.866] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:46:22.500] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:46:22.885] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:46:22.888] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:46:42.513] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:47:01.020] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:47:01.022] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:53:49.851] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:53:53.936] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:53:53.938] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:53:55.486] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:53:55.488] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:53:56.663] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:53:56.665] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:53:58.085] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:53:58.089] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:53:58.629] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T16:53:58.632] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T17:20:44.749] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-13T17:20:44.755] [INFO] default - User authenticated: 6865163600c951adfc7cb6ce
+[2025-07-15T15:48:10.915] [WARN] default - Authorization failed: No token provided
+[2025-07-15T15:48:10.929] [WARN] default - Authorization failed: No token provided
+[2025-07-15T15:49:39.558] [WARN] default - Authorization failed: No token provided
+[2025-07-15T15:49:39.568] [WARN] default - Authorization failed: No token provided
+[2025-07-15T15:50:55.864] [WARN] default - Authorization failed: No token provided
+[2025-07-15T15:50:55.873] [WARN] default - Authorization failed: No token provided
+[2025-07-15T15:52:45.803] [WARN] default - Authorization failed: No token provided
+[2025-07-15T15:52:45.811] [WARN] default - Authorization failed: No token provided
+[2025-07-15T15:53:21.056] [WARN] default - Authorization failed: No token provided
+[2025-07-15T15:53:21.069] [WARN] default - Authorization failed: No token provided
+[2025-07-15T15:53:43.835] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-15T15:53:43.904] [ERROR] default - Login failed: Invalid email or password
+[2025-07-15T15:53:59.052] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-15T15:53:59.063] [ERROR] default - Login failed: Invalid email or password
+[2025-07-15T15:54:08.105] [WARN] default - Authorization failed: No token provided
+[2025-07-15T15:54:08.112] [WARN] default - Authorization failed: No token provided
+[2025-07-15T15:54:17.467] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-15T15:54:17.480] [ERROR] default - Login failed: Invalid email or password
+[2025-07-15T15:54:54.648] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-15T15:54:54.656] [ERROR] default - Login failed: Invalid email or password
+[2025-07-15T16:01:31.610] [DEBUG] default - POST /auth/register - Attempting to register new user
+[2025-07-15T16:01:31.773] [INFO] default - User registered successfully: 6876512be85d7c9b312f69bd
+[2025-07-15T16:03:04.776] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-15T16:03:04.870] [INFO] default - Login successful for user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:03:29.349] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-15T16:03:29.436] [INFO] default - Login successful for user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:04:39.149] [DEBUG] default - POST /auth/register - Attempting to register new user
+[2025-07-15T16:04:39.153] [ERROR] default - Registration failed: User already exists
+[2025-07-15T16:04:46.705] [DEBUG] default - POST /auth/register - Attempting to register new user
+[2025-07-15T16:04:46.709] [ERROR] default - Registration failed: User already exists
+[2025-07-15T16:04:48.520] [DEBUG] default - POST /auth/register - Attempting to register new user
+[2025-07-15T16:04:48.523] [ERROR] default - Registration failed: User already exists
+[2025-07-15T16:05:09.044] [DEBUG] default - POST /auth/register - Attempting to register new user
+[2025-07-15T16:05:09.048] [ERROR] default - Registration failed: User already exists
+[2025-07-15T16:05:32.175] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-15T16:05:32.263] [INFO] default - Login successful for user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:21:19.654] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:21:19.706] [INFO] default - Current user fetched: 6876512be85d7c9b312f69bd
+[2025-07-15T16:21:19.726] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:21:19.742] [INFO] default - Current user fetched: 6876512be85d7c9b312f69bd
+[2025-07-15T16:21:31.250] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-15T16:21:31.357] [INFO] default - Login successful for user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:24:00.045] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-15T16:24:00.141] [INFO] default - Login successful for user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:24:48.788] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:24:48.841] [INFO] default - Creating document for user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:24:48.886] [INFO] default - Document uploaded: 687656a06f099ee6a3bb75f9 by user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:33:47.704] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:33:47.709] [INFO] default - Current user fetched: 6876512be85d7c9b312f69bd
+[2025-07-15T16:43:19.922] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:43:19.928] [INFO] default - Current user fetched: 6876512be85d7c9b312f69bd
+[2025-07-15T16:43:19.975] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:43:19.976] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:43:19.987] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:43:19.987] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:43:51.346] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:43:51.374] [INFO] default - Current user fetched: 6876512be85d7c9b312f69bd
+[2025-07-15T16:43:51.386] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:43:51.391] [INFO] default - Current user fetched: 6876512be85d7c9b312f69bd
+[2025-07-15T16:43:59.022] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-15T16:43:59.099] [INFO] default - Login successful for user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:43:59.140] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:43:59.141] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:43:59.149] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:43:59.149] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:44:59.375] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:44:59.409] [INFO] default - Creating document for user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:44:59.426] [INFO] default - Document uploaded: 68765b5b2431f3925b4ebcf7 by user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:45:14.701] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:45:14.712] [INFO] default - Current user fetched: 6876512be85d7c9b312f69bd
+[2025-07-15T16:45:14.720] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:45:14.724] [INFO] default - Current user fetched: 6876512be85d7c9b312f69bd
+[2025-07-15T16:45:20.968] [DEBUG] default - POST /auth/login - Attempting to login
+[2025-07-15T16:45:21.046] [INFO] default - Login successful for user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:45:21.071] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:45:21.071] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:45:21.079] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:45:21.079] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:49:40.888] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:49:40.892] [INFO] default - Current user fetched: 6876512be85d7c9b312f69bd
+[2025-07-15T16:49:40.897] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:49:40.902] [INFO] default - Current user fetched: 6876512be85d7c9b312f69bd
+[2025-07-15T16:49:40.925] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:49:40.926] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:49:40.936] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:49:40.937] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:52:38.180] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:52:38.180] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:52:38.186] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:52:38.187] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:53:36.987] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:53:37.039] [INFO] default - Creating document for user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:53:37.043] [INFO] default - Document uploaded: 68765d612431f3925b4ebd04 by user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:53:37.048] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:53:37.049] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:53:37.082] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:53:37.082] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:53:37.089] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:53:37.089] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:54:09.838] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:54:09.839] [WARN] default - Invalid ObjectId: undefined
+[2025-07-15T16:54:16.643] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:54:16.643] [WARN] default - Invalid ObjectId: undefined
+[2025-07-15T16:54:38.033] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:54:38.034] [WARN] default - Invalid ObjectId: undefined
+[2025-07-15T16:55:17.758] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:55:17.758] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T16:55:17.765] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T16:55:17.766] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:00:21.200] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:00:21.200] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:00:21.207] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:00:21.208] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:00:29.444] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:00:29.444] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:00:29.450] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:00:29.450] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:00:33.996] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:00:33.997] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:00:34.005] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:00:34.005] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:00:38.889] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:00:38.890] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:00:38.895] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:00:38.896] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:01:20.036] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:01:20.036] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:01:20.042] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:01:20.042] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:04:00.489] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:04:23.006] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:04:23.007] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:04:42.699] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:04:42.700] [INFO] default - Fetching document: 687656a06f099ee6a3bb75f9 for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:05:01.376] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:05:01.377] [INFO] default - Deleting document: 687656a06f099ee6a3bb75f9 for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:05:01.384] [INFO] default - File deleted: D:\מסמכים\לימודים\final project\SmartDocs\server\uploads\file-1752585888794-642388777.JPG
+[2025-07-15T17:05:01.401] [INFO] default - Document deleted: 687656a06f099ee6a3bb75f9
+[2025-07-15T17:05:01.402] [INFO] default - Document deleted: 687656a06f099ee6a3bb75f9 by user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:05:07.772] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:05:07.775] [INFO] default - Current user fetched: 6876512be85d7c9b312f69bd
+[2025-07-15T17:05:07.779] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:05:07.783] [INFO] default - Current user fetched: 6876512be85d7c9b312f69bd
+[2025-07-15T17:05:07.809] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:05:07.809] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:05:07.815] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:05:07.815] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:05:14.091] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:05:14.091] [WARN] default - Invalid ObjectId: undefined
+[2025-07-15T17:09:00.064] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:09:00.066] [WARN] default - Invalid ObjectId: undefined
+[2025-07-15T17:20:55.762] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:20:55.762] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:20:58.229] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:20:58.232] [INFO] default - Current user fetched: 6876512be85d7c9b312f69bd
+[2025-07-15T17:20:58.236] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:20:58.239] [INFO] default - Current user fetched: 6876512be85d7c9b312f69bd
+[2025-07-15T17:20:58.264] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:20:58.264] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:20:58.269] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:20:58.270] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:21:02.596] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:21:02.596] [INFO] default - Deleting document: 68765d612431f3925b4ebd04 for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:21:02.600] [INFO] default - File deleted: D:\מסמכים\לימודים\final project\SmartDocs\server\uploads\file-1752587616989-513856672.JPG
+[2025-07-15T17:21:02.602] [INFO] default - Document deleted: 68765d612431f3925b4ebd04
+[2025-07-15T17:21:02.602] [INFO] default - Document deleted: 68765d612431f3925b4ebd04 by user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:21:02.607] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:21:02.608] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:21:27.674] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:21:27.674] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:21:27.680] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:21:27.680] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:21:46.151] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:21:46.171] [INFO] default - Creating document for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:21:46.175] [INFO] default - Document uploaded: 687663fa2431f3925b4ebd27 by user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:21:46.181] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:21:46.182] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:21:46.216] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:21:46.217] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:21:46.223] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:21:46.224] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:25:28.996] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:25:28.997] [INFO] default - Download document: 687663fa2431f3925b4ebd27 for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:26:04.414] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:26:04.414] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:26:04.419] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:26:04.420] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:26:24.235] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:26:24.239] [INFO] default - Creating document for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:26:24.242] [INFO] default - Document uploaded: 687665102431f3925b4ebd2f by user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:26:24.252] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:26:24.252] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:26:24.291] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:26:24.291] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:26:24.299] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:26:24.300] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:26:28.137] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:26:28.137] [INFO] default - Download document: 687665102431f3925b4ebd2f for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:42:45.421] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:42:45.447] [INFO] default - Current user fetched: 6876512be85d7c9b312f69bd
+[2025-07-15T17:42:45.460] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:42:45.465] [INFO] default - Current user fetched: 6876512be85d7c9b312f69bd
+[2025-07-15T17:42:45.497] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:42:45.498] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:42:45.510] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:42:45.511] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:42:50.479] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:42:50.481] [INFO] default - Download document: 687665102431f3925b4ebd2f for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:42:50.491] [INFO] default - Download successful: file-1752589584236-31260868.docx for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:44:59.957] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:44:59.958] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:46:30.916] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:46:30.916] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:46:33.906] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:46:33.907] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:47:02.059] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:47:02.089] [INFO] default - Current user fetched: 6876512be85d7c9b312f69bd
+[2025-07-15T17:47:02.101] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:47:02.107] [INFO] default - Current user fetched: 6876512be85d7c9b312f69bd
+[2025-07-15T17:47:02.135] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:47:02.135] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:47:02.148] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:47:02.149] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:47:04.546] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:47:04.547] [INFO] default - Download document: 687665102431f3925b4ebd2f for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:47:04.555] [INFO] default - Download successful: file-1752589584236-31260868.docx for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:47:16.816] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:47:16.816] [INFO] default - Download document: 687663fa2431f3925b4ebd27 for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:47:16.822] [INFO] default - Download successful: file-1752589306153-629557054.JPG for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:52:20.739] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:52:20.760] [INFO] default - Current user fetched: 6876512be85d7c9b312f69bd
+[2025-07-15T17:52:20.771] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:52:20.777] [INFO] default - Current user fetched: 6876512be85d7c9b312f69bd
+[2025-07-15T17:52:20.806] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:52:20.807] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:52:20.819] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:52:20.819] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:52:24.460] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:52:24.461] [INFO] default - Download document: 687663fa2431f3925b4ebd27 for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:52:24.470] [INFO] default - Download successful: wedding.JPG for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:53:16.880] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T17:53:16.881] [INFO] default - Download document: 687663fa2431f3925b4ebd27 for user: 6876512be85d7c9b312f69bd
+[2025-07-15T17:53:16.888] [INFO] default - Download successful: wedding.JPG for user: 6876512be85d7c9b312f69bd
+[2025-07-15T18:00:26.956] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T18:00:26.956] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T18:01:00.904] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T18:01:00.905] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T18:01:29.903] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T18:01:29.904] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T18:01:31.900] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T18:01:31.901] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T18:01:36.902] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T18:01:36.903] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T18:01:56.829] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T18:01:56.851] [INFO] default - Current user fetched: 6876512be85d7c9b312f69bd
+[2025-07-15T18:01:56.862] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T18:01:56.867] [INFO] default - Current user fetched: 6876512be85d7c9b312f69bd
+[2025-07-15T18:01:56.894] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T18:01:56.895] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T18:01:56.906] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T18:01:56.906] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd
+[2025-07-15T18:05:38.923] [INFO] default - User authenticated: 6876512be85d7c9b312f69bd
+[2025-07-15T18:05:38.924] [INFO] default - Fetching documents for user: 6876512be85d7c9b312f69bd

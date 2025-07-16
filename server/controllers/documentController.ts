@@ -115,12 +115,36 @@ export const download = async (req: Request, res: Response): Promise<void> => {
     const owner = (req as any).user.id;
     const docId = req.params.id;
     const doc = await documentService.downloadDocument(docId, owner);
+
     if (!doc) {
       logger.info(`Download failed - Document not found or unauthorized: ${docId} for user: ${owner}`);
       res.status(404).json({ message: 'Document not found or unauthorized' });
       return;
     }
-    res.download(path.resolve(doc.filePath), doc.title || 'document');
+
+    const absolutePath = path.resolve(doc.filePath);
+    const originalExt = path.extname(doc.filePath); // .pdf, .jpg וכו'
+    let filename = doc.title || path.parse(doc.filePath).name;
+
+    // אם השם לא כולל סיומת – נוסיף אותה מהקובץ המקורי
+    if (!path.extname(filename)) {
+      filename += originalExt;
+    }
+
+    res.setHeader('Content-Disposition', `attachment; filename="${encodeURIComponent(filename)}"`);
+    res.setHeader('Content-Type', 'application/octet-stream');
+
+    res.download(absolutePath, filename, (err) => {
+      if (err) {
+        logger.error(`Error sending file ${filename}: ${err.message}`);
+        if (!res.headersSent) {
+          res.status(500).json({ message: 'Failed to download file' });
+        }
+      } else {
+        logger.info(`Download successful: ${filename} for user: ${owner}`);
+      }
+    });
+
   } catch (err: any) {
     logger.error(`Download document failed: ${err.message}`);
     res.status(500).json({ message: 'Server error' });
