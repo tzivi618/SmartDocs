@@ -58,7 +58,11 @@ export const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
   };
 
   const updateProfile = async (data: Partial<User>) => {
+    console.log('Updating profile with data:', data);
+       
     const response = await api.patch('/auth/me', data);
+    console.log('Profile updated:', response.data.user);
+    
     setUser(response.data.user);
     return response.data;
   };
@@ -70,7 +74,7 @@ export const AuthProvider: React.FC<AuthProviderProps> = ({ children }) => {
       } catch (error) {
         console.error('Init checkAuth failed:', error);
       } finally {
-        // setLoading(false);
+        setLoading(false);
       }
     };
     init();

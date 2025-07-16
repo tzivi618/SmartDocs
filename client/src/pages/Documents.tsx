@@ -24,7 +24,7 @@ import { Layout } from '../components/layout/Layout';
 
 export const Documents: React.FC = () => {
   const { documents, loading, downloadDocument, deleteDocument } = useDocuments();
-  
+
   console.log('Documents component mounted');
 
   const formatFileSize = (bytes: number) => {
@@ -46,8 +46,8 @@ export const Documents: React.FC = () => {
   };
 
   if (loading) {
-  console.log("Loading documents...");
-  
+    console.log("Loading documents...");
+
     return (
       <Layout>
         <Box sx={{ display: 'flex', justifyContent: 'center', py: 8 }}>
@@ -101,9 +101,9 @@ export const Documents: React.FC = () => {
           </CardContent>
         </Card>
       ) : (
-        <Grid container spacing={3}>
+        <Box sx={{ display: 'flex', flexWrap: 'wrap', gap: 3 }}>
           {documents.map((doc) => (
-            // <Grid item xs={12} sm={6} md={4} key={doc.id}>
+            <Box key={doc._id} sx={{ width: { xs: '100%', sm: 'calc(50% - 24px)', md: 'calc(33.33% - 24px)' }, mb: 3 }}>
               <Card sx={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
                 <CardContent sx={{ flexGrow: 1 }}>
                   <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', mb: 2 }}>
@@ -111,14 +111,14 @@ export const Documents: React.FC = () => {
                     <Box>
                       <IconButton
                         size="small"
-                        onClick={() => handleDownload(doc.id)}
+                        onClick={() => handleDownload(doc._id)}
                         color="primary"
                       >
                         <Download />
                       </IconButton>
                       <IconButton
                         size="small"
-                        onClick={() => handleDelete(doc.id)}
+                        onClick={() => handleDelete(doc._id)}
                         color="error"
                       >
                         <Delete />
@@ -141,9 +141,9 @@ export const Documents: React.FC = () => {
                   </Typography>
                 </CardContent>
               </Card>
-            // </Grid>
+            </Box>
           ))}
-        </Grid>
+        </Box>
       )}
     </Layout>
   );

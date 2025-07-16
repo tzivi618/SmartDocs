@@ -13,7 +13,7 @@ export const useDocuments = () => {
     try {
       setLoading(true);
       const response = await api.get('/documents');
-      setDocuments(response.data.data);
+      setDocuments(response.data);
     } catch (error) {
       console.error('Error fetching documents:', error);
     } finally {

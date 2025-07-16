@@ -11,12 +11,14 @@ const JWT_SECRET = process.env.JWT_SECRET || 'secret';
 const CLIENT_ID = process.env.GOOGLE_CLIENT_ID as string;
 const client = new OAuth2Client(CLIENT_ID);
 
-export const googleLogin = async (idToken: string) => {
-  const ticket = await client.verifyIdToken({
-    idToken,
-    audience: CLIENT_ID,
-  });
+const removePassword = (user: any) => {
+  const userObj = user.toObject ? user.toObject() : user;
+  delete userObj.password;
+  return userObj;
+};
 
+export const googleLogin = async (idToken: string) => {
+  const ticket = await client.verifyIdToken({ idToken, audience: CLIENT_ID });
   const payload = ticket.getPayload();
 
   if (!payload || !payload.email) {
@@ -33,7 +35,6 @@ export const googleLogin = async (idToken: string) => {
       role: Role.USER,
       avatar: payload.picture,
     });
-
     await user.save();
   } else {
     let needUpdate = false;
@@ -46,11 +47,8 @@ export const googleLogin = async (idToken: string) => {
     }
   }
 
-  const token = jwt.sign({ id: user._id, role: user.role }, JWT_SECRET, {
-    expiresIn: '1d',
-  });
-
-  return { token, user };
+  const token = jwt.sign({ id: user._id, role: user.role }, JWT_SECRET, { expiresIn: '1d' });
+  return { token, user: removePassword(user) };
 };
 
 export const register = async (name: string, email: string, password: string) => {
@@ -60,21 +58,11 @@ export const register = async (name: string, email: string, password: string) =>
   }
 
   const hashedPassword = await bcrypt.hash(password, 10);
-
-  const user = new User({
-    name,
-    email,
-    password: hashedPassword,
-    role: Role.USER,
-  });
-
+  const user = new User({ name, email, password: hashedPassword, role: Role.USER });
   await user.save();
 
-  const token = jwt.sign({ id: user._id, role: user.role }, JWT_SECRET, {
-    expiresIn: '1d',
-  });
-
-  return { token, user };
+  const token = jwt.sign({ id: user._id, role: user.role }, JWT_SECRET, { expiresIn: '1d' });
+  return { token, user: removePassword(user) };
 };
 
 export const login = async (email: string, password: string) => {
@@ -88,22 +76,22 @@ export const login = async (email: string, password: string) => {
     throw new Error('Invalid email or password');
   }
 
-  const token = jwt.sign({ id: user._id, role: user.role }, JWT_SECRET, {
-    expiresIn: '1d',
-  });
-
-  return { token, user };
+  const token = jwt.sign({ id: user._id, role: user.role }, JWT_SECRET, { expiresIn: '1d' });
+  return { token, user: removePassword(user) };
 };
 
 export const getUserById = async (userId: string) => {
-  const user = await User.findById(userId).select('-password');
+  const user = await User.findById(userId);
   if (!user) {
     throw new Error('User not found');
   }
-  return { user };
+  return { user: removePassword(user) };
 };
 
-export const updateUser = async (userId: string, updateFields: Partial<{ name: string; email: string }>) => {
+export const updateUser = async (
+  userId: string,
+  updateFields: Partial<{ name: string; email: string }>
+) => {
   if (updateFields.email) {
     const existingUser = await User.findOne({ email: updateFields.email, _id: { $ne: userId } });
     if (existingUser) {
@@ -111,16 +99,15 @@ export const updateUser = async (userId: string, updateFields: Partial<{ name: s
     }
   }
 
-  const updatedUser = await User.findByIdAndUpdate(userId, { $set: updateFields }, { new: true }).select('-password');
+  const updatedUser = await User.findByIdAndUpdate(userId, { $set: updateFields }, { new: true });
   if (!updatedUser) {
     throw new Error('User not found');
   }
-  return { user: updatedUser };
+  return { user: removePassword(updatedUser) };
 };
 
 export const deleteUserAndDocuments = async (userId: string) => {
   const documents = await DocumentModel.find({ owner: userId });
-
   for (const doc of documents) {
     try {
       await fs.unlink(doc.filePath);
